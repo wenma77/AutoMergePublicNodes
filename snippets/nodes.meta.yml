@@ -19,7 +19,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '9,10|🇩🇪 - DE - @freeOnlineVPN #2'
+- name: '9,10|🇩🇪 - DE - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -29,7 +29,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 9,10|41@ConfigV2RayNG
+- name: 9| - CH - @freeOnlineVPN
   password: e343471a-aad3-40da-9dea-72cc8c7dce5f
   port: 443
   server: 152.67.95.183
@@ -45,12 +45,20 @@ proxies:
   sni: www.apple.com
   tls: false
   type: hysteria2
-- name: 9,10|♂️37@ConfigV2RayNG
+- name: 9| - SG - @freeOnlineVPN
   password: e343471a-aad3-40da-9dea-72cc8c7dce5f
   port: 443
   server: 203.27.106.148
   skip-cert-verify: true
   sni: www.apple.com
+  tls: false
+  type: hysteria2
+- name: 10|telegram  𝗮
+  password: 7b5cbc6a-90a1-4b6e-994e-4c198b85f80b
+  port: 30000
+  server: de2.oomz.ru
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: 10|22@ConfigV2RayNG
@@ -83,7 +91,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '10|🇳🇱@FreakConfig #1'
+- name: 10|🇱 ConfigV2RayNG
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -103,7 +111,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '10|🇳🇱@FreakConfig #2'
+- name: 10|🇳🇱@FreakConfig
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -193,7 +201,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 10|🇪 - DE - @freeOnlineVPN
+- name: '10|🇩🇪 - DE - @freeOnlineVPN #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -203,7 +211,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '10|🇪 - DE - @freeOnlineVPN #1'
+- name: 10|🇪 - DE - @freeOnlineVPN
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -271,7 +279,7 @@ proxies:
   sni: johannesburg-4.nezhasu.com
   tls: false
   type: hysteria2
-- name: 10|32@ConfigV2RayNG
+- name: 10|All-@V2rayAlpha--1
   password: e343471a-aad3-40da-9dea-72cc8c7dce5f
   port: 443
   server: 146.56.164.36
@@ -279,52 +287,12 @@ proxies:
   sni: api.push.apple.com
   tls: false
   type: hysteria2
-- name: 10|♂️34@ConfigV2RayNG
+- name: 10|All-@V2rayAlpha--2
   password: e343471a-aad3-40da-9dea-72cc8c7dce5f
   port: 443
   server: 152.69.220.212
   skip-cert-verify: true
   sni: api.push.apple.com
-  tls: false
-  type: hysteria2
-- name: 10|♂️40@ConfigV2RayNG
-  password: e343471a-aad3-40da-9dea-72cc8c7dce5f
-  port: 443
-  server: 158.178.236.104
-  skip-cert-verify: true
-  sni: api.push.apple.com
-  tls: false
-  type: hysteria2
-- name: 10|♂️33@ConfigV2RayNG
-  password: e343471a-aad3-40da-9dea-72cc8c7dce5f
-  port: 443
-  server: 158.179.18.251
-  skip-cert-verify: true
-  sni: api.push.apple.com
-  tls: false
-  type: hysteria2
-- name: 10|♂️39@ConfigV2RayNG
-  password: e343471a-aad3-40da-9dea-72cc8c7dce5f
-  port: 443
-  server: pq.us1.globals-download.com
-  skip-cert-verify: true
-  sni: www.apple.com
-  tls: false
-  type: hysteria2
-- name: 10|♂️71@ConfigV2RayNG
-  password: e343471a-aad3-40da-9dea-72cc8c7dce5f
-  port: 443
-  server: pq.us2.globals-download.com
-  skip-cert-verify: true
-  sni: www.apple.com
-  tls: false
-  type: hysteria2
-- name: 10|♂️38@ConfigV2RayNG
-  password: e343471a-aad3-40da-9dea-72cc8c7dce5f
-  port: 443
-  server: pq.us7.globals-download.com
-  skip-cert-verify: true
-  sni: www.apple.com
   tls: false
   type: hysteria2
 - name: '10|28YB5qK!5t#U&insecure=1&sni=na... #1'
